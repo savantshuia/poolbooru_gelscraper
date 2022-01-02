@@ -1,6 +1,8 @@
 # poolbooru_gelscraper
 a simple python script for scraping images off gelbooru pools.
 
+modules required:requests_html, and os
+
 by default saves files without extensions so for windows you will need to set whatever file type you want in the code, the file names will be the image ID gelbooru uses by defualt
 
 use forward slashes (just for consistency, I hate how windows uses backslashes)
